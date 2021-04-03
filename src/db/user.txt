@@ -1,0 +1,39 @@
+[
+    {
+        _id  ObjectId(6051d96065c4fc1e6498dbb8),
+        age  54,
+        name  Nam,
+        email  nmnam@gmail.com,
+        __v  0
+    },
+    {
+        _id  ObjectId(6051d9c14f3ef81440cae2e2),
+        age  26,
+        name  Phuc,
+        email  phuc@gmail.com,
+        __v  0
+    },
+    {
+        _id  ObjectId(6051d9d28bbc991944a2532b),
+        age  21,
+        name  Thao,
+        email  thao@gmail.com,
+        __v  0
+    },
+    {
+        _id  ObjectId(6051dc5d2f3e0a2950099ea6),
+        age  60,
+        name  Toan,
+        email  toan@gmail.com,
+        password  PASSWOR123,
+        __v  0
+    },
+    {
+        _id  ObjectId(60523447255d2720ec82ceb6),
+        age  1,
+        name  Ha,
+        email  ha@gmail.com,
+        password  12345678,
+        __v  0
+    }
+]

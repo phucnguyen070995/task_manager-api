@@ -1,0 +1,1 @@
+/Users/nguyenphuc/Phuc/mongodb/bin/mongod --dbpath=/Users/nguyenphuc/Phuc/mongodb-data     

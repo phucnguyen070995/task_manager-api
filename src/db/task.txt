@@ -1,0 +1,14 @@
+[
+    {
+        "_id" : ObjectId("6051c67f3ad4084244ce41f1"),
+        "description" : "Clean my house",
+        "completed" : false,
+        "__v" : 0
+    },
+    {
+        "_id" : ObjectId("6051dd8f89b3f02c6cf21ff2"),
+        "completed" : false,
+        "description" : "Study NodeJs",
+        "__v" : 0
+    }
+]
